@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41cadb893f1a37f478d462e0d049d257, type: 3}
+  m_Name: letters 1
+  m_EditorClassIdentifier: 
+  letterTitle: I'm Sorry
+  letterTask: "Hello, I'm sorry...\n\nThere's a monster outside. \nYou're likely
+    going to die but I'll do my best to help\n\nSTAY IN THE CABIN.\n\nOnce again.
+    I'm sorry... best of luck\n\n-E"
